@@ -1,4 +1,4 @@
-package com.service.eureka.server;
+package com.service.eureka.server.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
